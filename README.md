@@ -36,3 +36,5 @@ Every word Miumi-wbb plays is logged in the Session History list.
 Miumi will never repeat a word within the same session.
 Click New Session to clear the list and start fresh.
 Export List — saves the current session history to a .txt file. A save dialog lets you choose the filename and location.
+
+DISCLAIMER: Miumi is an educational project intended for research and personal use. Use of automation in online games may violate the Terms of Service of platforms like Roblox or JKLM. The developer(s) are not responsible for any account actions taken as a result of using this software.
