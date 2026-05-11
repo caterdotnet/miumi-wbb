@@ -1,6 +1,6 @@
 >> What is Miumi? <<
 
-Miumi is a ___ that has an array of QoL, algorithms, and bots to use.
+Miumi is a virtual mascot that has an array of QoL, algorithms, and bots to use.
 Miumi-wordbombbot (wbb) is the first bot added to its array.
 
 
