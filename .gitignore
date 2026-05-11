@@ -1,0 +1,11 @@
+# build and Distribution folders (created by PyInstaller)
+build/
+dist/
+*.spec
+
+# personal session data (Highly sensitive!)
+sessions/
+
+# OS-specific files
+__pycache__/
+.DS_Store
